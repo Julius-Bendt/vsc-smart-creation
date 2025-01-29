@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Background -->
+  <rect width="128" height="128" fill="#2D2D2D" rx="16"/>
+  
+  <!-- Folder -->
+  <path d="M32 38 L52 38 L58 32 L88 32 L88 42 L32 42 Z" fill="#DCB67A"/>
+  <path d="M32 38 L88 38 L88 82 L32 82 Z" fill="#FFCD85"/>
+  
+  <!-- File -->
+  <rect x="40" y="46" width="40" height="50" fill="#4A9FFF"/>
+  <path d="M80 46 L80 60 L66 46 Z" fill="#2D80E0"/>
+  
+  <!-- Conversion arrows -->
+  <path d="M98 54 L108 64 L98 74" stroke="#64D364" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 74 L20 64 L30 54" stroke="#64D364" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Extension dot -->
+  <circle cx="94" cy="94" r="6" fill="#FF6B6B"/>
+</svg>
